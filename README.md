@@ -7,4 +7,5 @@ I'm a 2nd year Computer Engineering student at **Hacettepe University**.
 - 📫 How to reach me: **[https://www.linkedin.com/in/ekincimustafa/]**
 
 ---
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekincimustafa&show_icons=true&theme=radical)
+## 📊 GitHub Analytics
+![Mustafa's Stats](https://github-readme-stats.vercel.app/api?username=ekincimustafa&show_icons=true&theme=tokyonight)
