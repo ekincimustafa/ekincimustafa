@@ -4,7 +4,7 @@ I'm a 2nd year Computer Engineering student at **Hacettepe University**.
 
 - 🔭 I’m currently working on **[YouTube Playlist Calculator](https://ytplaylistcalculator.com)**
 - 🌱 I’m currently learning **Machine Learning & Algorithms (Java)**
-- 📫 How to reach me: **[Linkedin][https://www.linkedin.com/in/ekincimustafa/]**
+- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/ekincimustafa/)**
 
 ---
 ## 📊 GitHub Analytics
